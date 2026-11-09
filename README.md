@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zeeshan Latif
 
-<h3 align="center">Junior Software Quality Engineer | Manual & API Testing | Playwright Automation | AI-Assisted Testing</h3>
+<h3 align="center">Software Quality Engineer | Manual & API Testing | Playwright Automation | AI-Assisted Testing</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Junior+Software+Quality+Engineer;Manual+%26+API+Testing;Playwright+Automation;AI-Assisted+Software+Testing;Passionate+About+Software+Quality" alt="Typing SVG" />
